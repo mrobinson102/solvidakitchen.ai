@@ -1,47 +1,37 @@
 # solvidakitchen.ai
 
-**Sol Vida Kitchen™** — AI + RPA Technical Showcase  
-
-This repository powers the [solvidakitchen.ai](https://solvidakitchen.ai) domain, showcasing how **Robotic Process Automation (RPA)** and **Artificial Intelligence (AI/NLP)** can streamline kitchen and food management operations.  
+**Sol Vida Kitchen LLC** — The **AI + RPA technical showcase site** for Sol Vida Kitchen.  
+This repository demonstrates how **Artificial Intelligence (AI)** and **Robotic Process Automation (RPA)**  
+can be applied to modern food operations including menu management, order processing, and demand forecasting.
 
 ---
 
 ## Overview
-Sol Vida Kitchen™ applies AI + RPA to:  
-- Automate **menu management** (catalogs, pricing, updates).  
-- Streamline **order processing** with RPA bots.  
-- Use **demand forecasting** powered by AI/NLP + analytics.  
-- Build a **scalable cloud pipeline** for operations and insights.  
 
----
+Sol Vida Kitchen™ on `.ai` focuses on:
 
-## Tech Stack
-- **RPA:** UiPath, Power Automate  
-- **AI/ML:** Natural Language Processing (NLP), Forecasting Models  
-- **Cloud:** Oracle Cloud Infrastructure (OCI), AWS  
-- **Automation:** GitHub Actions, CI/CD pipelines  
-
----
-
-## Features (In Progress)
-- ✅ Automated catalog + pricing workflows  
-- ✅ Order processing flows with RPA  
-- 🚧 AI demand forecasting models  
-- 🚧 Cloud dashboards + analytics pipeline  
+- 🤖 **AI/NLP** for intelligent demand forecasting and food personalization  
+- ⚙️ **RPA bots** for automating order processing and repetitive workflows  
+- ☁️ **Cloud pipelines** for analytics and scalable infrastructure  
+- 🧪 **CI/CD automation** for rapid deployment and testing  
 
 ---
 
 ## Status
-⚙️ Active development — AI workflows and dashboards under construction.  
+
+🚀 **In progress** — technical workflows and proof-of-concepts under development.  
+Check back soon for demos, documentation, and implementation details.
 
 ---
 
 ## Related Domains
-- [solvidakitchen.com](https://solvidakitchen.com) — Coming Soon page  
-- [solvidakitchen.ai](https://solvidakitchen.ai) — This repo  
-- [solvidakitchen.app](https://solvidakitchen.app) — Updates & documentation hub  
+
+- [solvidakitchen.com](https://solvidakitchen.com) — Public landing page (Coming Soon)  
+- [solvidakitchen.app](https://solvidakitchen.app) — Update hub & progress site  
+- [solvidakitchen.ai](https://solvidakitchen.ai) — This technical showcase  
 
 ---
 
 ## License
-© 2025 **Sol Vida Kitchen LLC** | All rights reserved
+
+MIT License © 2025 Sol Vida Kitchen LLC
