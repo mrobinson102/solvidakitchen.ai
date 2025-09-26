@@ -24,6 +24,18 @@ Check back soon for demos, documentation, and implementation details.
 
 ---
 
+## Architecture Overview
+
+The Sol Vida Kitchen platform uses three coordinated domains to separate focus areas:
+
+- **solvidakitchen.com** → Customer landing site, brand introduction, fresh ideas  
+- **solvidakitchen.ai** → Technical showcase for AI + RPA demos and portfolio  
+- **solvidakitchen.app** → Updates hub with posts, announcements, and progress  
+
+![Sol Vida Kitchen Architecture](docs/solvidakitchen-architecture.png)
+
+---
+
 ## Related Domains
 
 - [solvidakitchen.com](https://solvidakitchen.com) — Public landing page (Coming Soon)  
